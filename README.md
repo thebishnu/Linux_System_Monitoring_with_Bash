@@ -1,0 +1,1 @@
+This is a simple Bash shell script to monitor Linux system resources (CPU, RAM, disk usage) and for basic system administration and troubleshooting. It can also send email alerts if system resources usage is high.
